@@ -5,5 +5,9 @@
 Обученная модель в папке tflite
 
 Результаты обучения из tensorboard
-![Image alt](https://github.com/AlexFox63/PedestrianData/raw/master/PedestrianData/Снимокэкранаот2020-04-3020-19-17.png)
-![Image alt](https://github.com/AlexFox63/PedestrianData/raw/master/PedestrianData/Снимок экрана от 2020-04-30 20-19-27.png)
+<p align="center">
+  <img src="/Снимок экрана от 2020-04-30 20-19-27.png" alt="Results"></img>
+</p>
+<p align="center">
+  <img src="/Снимок экрана от 2020-04-30 20-19-17.png" alt="Loss"></img>
+</p>
