@@ -11,3 +11,5 @@
 <p align="center">
   <img src="/Снимок экрана от 2020-04-30 20-19-17.png" alt="Loss"></img>
 </p>
+
+Ссылка на Android Проект: https://github.com/AlexFox63/AndroidPedestrianApp.git
