@@ -17,17 +17,14 @@
 Результаты работы модели:
 
 <p align="center">
-  <img src="PedestrianData/images/Results/individualImage1.png"></img>
+  <img src="/images/Results/individualImage1.png"></img>
 </p>
 <p align="center">
-  <img src="PedestrianData/images/Results/individualImage2.png"></img>
+  <img src="/images/Results/individualImage2.png"></img>
 </p>
 <p align="center">
-  <img src="PedestrianData/images/Results/individualImage3.png"></img>
+  <img src="/images/Results/individualImage3.png"></img>
 </p>
 <p align="center">
-  <img src="PedestrianData/images/Results/individualImage4.png"></img>
-</p>
-<p align="center">
-  <img src="PedestrianData/images/Results/individualImage5.png"></img>
+  <img src="/images/Results/individualImage4.png"></img>
 </p>
